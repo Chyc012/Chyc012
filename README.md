@@ -13,6 +13,20 @@
 
 ---
 
-### 🎮 Let's Play
-- ![Games Played](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight)
-- ![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)
+### 👨‍💻 About Me
+- 🐱 **Who am I?**
+  I'm a Student who loves creating things!
+- 🧑‍🎓 **What am I learning?**
+  Working on mastering **JavaScript** and **React**.
+- 💡 **What are my hobbies?**
+  Gaming 🎮, Reading 📖, Exploring Tech 🔧.
+
+---
+
+### 🛠️ Skills
+- Frontend: `HTML`, `CSS`, `JavaScript`
+- Backend: `Node.js`, `Express`
+- Others: `Git`, `Linux`
+
+---
+
