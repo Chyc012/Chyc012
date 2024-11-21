@@ -5,12 +5,14 @@
 </p>
 
 ---
-
-### 🔥 My Contributions
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your_username&theme=react-dark)
+### 👩‍💻 About Me
+- 🎓 I’m currently studying **everything**.
+- 🌱 Learning: `React`, `Node.js`, `Python`.
+- 🐾 Hobbies: Drawing, Gaming, Watching Anime.
+- 🌟 Fun Fact: I love cats! 😻
 
 ---
 
-### ✨ Star Projects
-- [Project 1](https://github.com/your_username/project1): Description
-- [Project 2](https://github.com/your_username/project2): Description
+### 🎮 Let's Play
+- ![Games Played](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight)
+- ![Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)
